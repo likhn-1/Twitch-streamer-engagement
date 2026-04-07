@@ -1,14 +1,14 @@
 # Twitch Streamer Engagement & Feature Impact Analysis
 
-> Behavioral analysis of 1,000 top Twitch streamers to identify what drives viewer retention - with a simulated A/B test framework evaluating the impact of content maturity flags by streamer tier.
+> Behavioral analysis of top Twitch streamers to identify what drives viewer retention - with a simulated A/B test framework evaluating the impact of content maturity flags by streamer tier.
 
 ---
 
 ## Project Overview
 
-This project analyzes publicly available Twitch data to uncover patterns in viewer engagement, follow conversion, and retention across streamer tiers and content types. The core deliverable is a **simulated A/B test** evaluating whether mature content designation is associated with higher viewer retention — and critically, whether that effect differs by audience size.
+This project analyzes publicly available Twitch data to uncover patterns in viewer engagement, follow conversion, and retention across streamer tiers and content types. The core deliverable is a **simulated A/B test** evaluating whether mature content designation is associated with higher viewer retention and critically, whether that effect differs by audience size.
 
-**Why it matters:** Platforms like Twitch face constant product decisions around content policy, discoverability, and creator incentives. This analysis demonstrates how behavioral data can be used to stress-test those decisions before rollout — the same approach applied to customer support or marketplace features in a product analytics context.
+**Why it matters:** Platforms like Twitch face constant product decisions around content policy, discoverability, and creator incentives. This analysis demonstrates how behavioral data can be used to stress-test those decisions before rollout - the same approach applied to customer support or marketplace features in a product analytics context.
 
 ---
 
@@ -43,7 +43,7 @@ Four derived metrics were created to enable richer behavioral analysis:
 
 EDA surfaced several non-obvious patterns across the streamer population:
 
-- **Retention is not monotonic with tier** — mid and large streamers showed higher retention than mega streamers, suggesting audience loyalty declines at scale
+- **Retention is not monotonic with tier** - mid and large streamers showed higher retention than mega streamers, suggesting audience loyalty declines at scale
 - **Partnered status showed no significant retention advantage** (p=0.67), despite being the platform's primary creator incentive signal
 - **English dominates** the top 1,000 streamers, but Portuguese (Gaules) and Spanish-language streamers show competitive retention
 
