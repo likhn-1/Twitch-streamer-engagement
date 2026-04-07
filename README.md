@@ -1,6 +1,6 @@
 # Twitch Streamer Engagement & Feature Impact Analysis
 
-> Behavioral analysis of 1,000 top Twitch streamers to identify what drives viewer retention — with a simulated A/B test framework evaluating the impact of content maturity flags by streamer tier.
+> Behavioral analysis of 1,000 top Twitch streamers to identify what drives viewer retention - with a simulated A/B test framework evaluating the impact of content maturity flags by streamer tier.
 
 ---
 
