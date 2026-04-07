@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes publicly available Twitch data to uncover patterns in viewer engagement, follow conversion, and retention across streamer tiers and content types. The core deliverable is a **simulated A/B test** evaluating whether mature content designation is associated with higher viewer retention — and critically, whether that effect differs by audience size.
 
@@ -12,7 +12,7 @@ This project analyzes publicly available Twitch data to uncover patterns in view
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** [Kaggle — Top Twitch Streamers Dataset](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata)
 - **Size:** 1,000 rows × 11 columns
@@ -20,7 +20,7 @@ This project analyzes publicly available Twitch data to uncover patterns in view
 
 ---
 
-## 🔧 Feature Engineering
+## Feature Engineering
 
 Four derived metrics were created to enable richer behavioral analysis:
 
@@ -39,7 +39,7 @@ Four derived metrics were created to enable richer behavioral analysis:
 
 ---
 
-## 📊 Exploratory Analysis
+## Exploratory Analysis
 
 EDA surfaced several non-obvious patterns across the streamer population:
 
@@ -57,7 +57,7 @@ EDA surfaced several non-obvious patterns across the streamer population:
 
 ---
 
-## 🧪 A/B Test Design & Results
+## A/B Test Design & Results
 
 ### Experiment: Mature Content Flag → Viewer Retention
 
@@ -98,7 +98,7 @@ The aggregate result masked meaningful heterogeneity across tiers:
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 1. **Tier-differentiated content strategy:** Consider allowing mid/large streamers to opt into mature content promotion, while applying more conservative defaults for small and mega-tier creators.
 2. **Partnership program signal:** Partnered status alone is not a reliable proxy for retention quality — platform incentives should be revisited.
@@ -106,7 +106,7 @@ The aggregate result masked meaningful heterogeneity across tiers:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -119,7 +119,7 @@ The aggregate result masked meaningful heterogeneity across tiers:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 twitch-engagement-analysis/
@@ -133,7 +133,7 @@ twitch-engagement-analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository
 2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata) and save as `twitchdata-update.csv`
@@ -142,6 +142,6 @@ twitch-engagement-analysis/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Likhita Nallapati**
